@@ -22,15 +22,15 @@ DATABASE_URL=***
 To run the server,
 
 ```
-npm i 
+bun install 
 bun run dev
 ```
 
 TO run the client,
 
 ```
-npm i
 cd client
+bun install
 bun run dev
 ```
 
