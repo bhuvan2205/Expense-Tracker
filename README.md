@@ -1,5 +1,8 @@
 # Expense-tracker
 
+UI
+![Company Profile Presentation](https://github.com/bhuvan2205/Expense-Tracker/assets/56767330/3b853728-a0b6-485b-a43f-e25f18f2ee07)
+
 To get Started and run the application in local
 
 Setup Kinde **Auth**
